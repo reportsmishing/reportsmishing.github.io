@@ -1,2 +1,2 @@
 # reportsmishing.github.io
-organization website
+Website to collect smishing data and publicize the project.
